@@ -42,4 +42,4 @@ Users should be able to:
 
 - Github - [@nbailey939](https://github.com/nbailey939)
 - Frontend Mentor - [@nbailey939](https://www.frontendmentor.io/profile/nbailey939)
-- Twitter - [@nbailey939](https://twitter.com/nbailey939
+- Twitter - [@nbailey939](https://twitter.com/nbailey939)
