@@ -175,8 +175,9 @@ p {
 }
 
 .hero h1 {
-  font-size: 2rem;
+  font-size: 2.9rem;
   font-weight: 800;
+  line-height: 1.3;
   color: var(--very-dark-blue);
   margin: 1rem 0;
 }
