@@ -82,6 +82,16 @@ select {
   font-family: 'Inter', sans-serif;
 }
 
+html {
+  font-size: 15px;
+}
+
+body {
+  max-width: 1240px;
+  margin: auto;
+  padding-bottom: 4rem;
+}
+
 img {
   max-width: 100%;
   width: 100%;
@@ -96,15 +106,6 @@ p {
   color: var(--dark-grayish-blue);
 }
 
-html {
-  font-size: 15px;
-}
-
-body {
-  max-width: 1200px;
-  margin: auto;
-  padding-bottom: 4rem;
-}
 /*--- End generic ---*/
 /*---  container  ---*/
 .container {
@@ -150,8 +151,10 @@ body {
 }
 
 .container nav ul li {
+  color: var(--dark-grayish-blue);
   margin: 3rem 0 0 2rem;
   font-size: 1.4rem;
+  font-weight: 500;
   cursor: pointer;
 }
 
